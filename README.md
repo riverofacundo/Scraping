@@ -2,7 +2,7 @@
 Utilizando Beautiful Soup y Selenium
 
 <ul>
-  <li>Valores del dolar en <a href="url">https://www.dolarhoy.com</a></li>
+  <li>Valores del dolar en (https://www.dolarhoy.com)</li>
   <li>Extraccion de noticias en <a href="url">https://www.lanacion.com.ar</a></li>
   <li>Extraccion de noticias en <a href="url">https://chequeado.com</a></li>
   <li>Extraccion de informacion de vuelos con Selenium en <a href="url">https://www.latam.com</a></li>
